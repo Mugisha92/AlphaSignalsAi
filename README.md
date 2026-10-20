@@ -1,2 +1,0 @@
-# AlphaSignalsAi
-Trading indicator 
